@@ -6,4 +6,5 @@ Notes on successes and weaknesses in my log
 ___
 Notes from the lecture 
 ___
-Any other evidence of exercise completion. 
+Exercise Completion
+
