@@ -5,5 +5,7 @@ Notes on successes and weaknesses in my log
 ___
 Notes from the lecture 
 ___
-Exercise Completion
+Image Classifier Exercise File - Soccer Players vs Hockey Players
+
+
 
