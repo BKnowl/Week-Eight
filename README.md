@@ -5,7 +5,9 @@ Notes on successes and weaknesses in my log
 ___
 Notes from the lecture 
 ___
-Image Classifier Exercise File - Soccer Players vs Hockey Players
+Image Classifier Exercise Files 
+- Zip file of images I used to clarify
+- Python file for colab code 
 
 
 
